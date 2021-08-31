@@ -6,11 +6,11 @@
 
     <groupId>org.aliyun</groupId>
     <artifactId>dingtalk-sdk</artifactId>
-    <version>1.0-20210719</version>
+    <version>1.0-20210901</version>
 
     <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
+        <maven.compiler.source>5</maven.compiler.source>
+        <maven.compiler.target>5</maven.compiler.target>
     </properties>
 
     <dependencies>
